@@ -8,8 +8,8 @@
 Array, Hash Table, Divide and Conquer, Sorting, Counting
 
 ### 🚀 Performance
-- **Runtime:** 19 ms
-- **Memory:** 13.7 MB
+- **Runtime:** 26 ms
+- **Memory:** 13.6 MB
 
 ---
 
