@@ -8,6 +8,7 @@ class Solution(object):
         for n in nums:
             curr += n
             rem = curr % k
+            
             if rem in seen:
                 count += seen[rem]
             seen[rem] = seen.get(rem, 0) + 1
