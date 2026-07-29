@@ -1,6 +1,6 @@
 # 📝 125. Valid Palindrome (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/valid-palindrome/?utm_source=chatgpt.com)
+🔗 [Problem Link](https://leetcode.com/problems/valid-palindrome/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Python-blue)
 
@@ -8,8 +8,8 @@
 Two Pointers, String
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 11 ms
+- **Memory:** 14.1 MB
 
 ---
 
