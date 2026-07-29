@@ -1,6 +1,6 @@
 # 📝 11. Container With Most Water (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/container-with-most-water/?utm_source=chatgpt.com)
+🔗 [Problem Link](https://leetcode.com/problems/container-with-most-water/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-Python-blue)
 
@@ -8,8 +8,8 @@
 Array, Two Pointers, Greedy
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 125 ms
+- **Memory:** 20.7 MB
 
 ---
 
