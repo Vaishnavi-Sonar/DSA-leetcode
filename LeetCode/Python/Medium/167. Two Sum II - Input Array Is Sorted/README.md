@@ -1,6 +1,6 @@
 # 📝 167. Two Sum II - Input Array Is Sorted (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/?utm_source=chatgpt.com)
+🔗 [Problem Link](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-Python-blue)
 
@@ -8,8 +8,8 @@
 Array, Two Pointers, Binary Search
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 4 ms
+- **Memory:** 12.8 MB
 
 ---
 
